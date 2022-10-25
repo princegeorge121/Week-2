@@ -1,0 +1,35 @@
+#B{
+    background-color: blue ;
+         height: 120px; 
+         width: 100%;
+         padding-top: 20px;
+}
+
+table,td{
+    border: 10px solid aqua;
+}
+
+td{
+    background-color: rgb(0,179,179);
+    height:130px; 
+    width:150px;
+}
+
+table{
+    background-color:aqua; 
+    height:300px; 
+    width:800px;
+}
+#C{
+    background-color: orange;
+    height: 330px; 
+    width: 448px;        
+    justify-content: center;
+    margin-left: 800px;
+    margin-top: -350px;
+}
+#D{
+    background-color: aquamarine;
+    height: 120px; 
+    width: 100%;
+}
